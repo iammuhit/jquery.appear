@@ -1,5 +1,15 @@
 # jQuery plugin to call a function when an element appears
 
+## Getting Started
+
+Via npm
+
+```bash
+$ npm install bas2k/jquery.appear --save
+```
+
+or manual [download](https://github.com/bas2k/jquery.appear/archive/master.zip).
+
 ## Usage
 
 Mimics a custom 'appear' event, which fires when an element scrolls into view or otherwise becomes visible to the user.
