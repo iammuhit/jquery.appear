@@ -1,0 +1,21 @@
+{
+    "name": "jquery-appear",
+    "version": "0.1.0",
+    "description": "JQuery plugin to call a function when an element appears",
+    "license": "MIT",
+    "main": "jquery.appear.js",
+    "authors": [
+        {
+            "name": "Michael Hixson",
+            "url": "https://github.com/bas2k/jquery.appear/"
+        },
+        {
+            "name": "Alexander Brovikov",
+            "url": "https://github.com/bas2k/jquery.appear/"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/iammuhit/jquery.appear.git"
+    }
+}
